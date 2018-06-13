@@ -1,0 +1,31 @@
+Loading data
+Fitting data
+C  1 :  0.4719669117647059
+Fitting data
+C  10 :  0.5330882352941176
+Fitting data
+C  50 :  0.5252757352941176
+Fitting data
+C  100 :  0.24494485294117646
+Fitting data
+C  500 :  0.20128676470588236
+Fitting data
+C  1000 :  0.19393382352941177
+Fitting data
+Iter  100 :  0.3446691176470588
+Fitting data
+Iter  500 :  0.5459558823529411
+Fitting data
+Iter  1000 :  0.5602022058823529
+Fitting data
+Iter  5000 :  0.5615808823529411
+Fitting data
+Feat  100 :  0.050091911764705885
+Fitting data
+Feat  500 :  0.34650735294117646
+Fitting data
+Feat  1000 :  0.5027573529411765
+Fitting data
+Feat  2500 :  0.7270220588235294
+Fitting data
+Feat  5000 :  0.7192095588235294
